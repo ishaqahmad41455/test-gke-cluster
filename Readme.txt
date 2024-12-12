@@ -1,0 +1,1 @@
+This is the setup of GKE Cluster --> GKE Standard Cluster

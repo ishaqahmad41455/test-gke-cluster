@@ -1,0 +1,12 @@
+project_id        = "aesthetic-site-443805-a0"
+region            = "us-central1"
+location          = "us-central1-a"
+bucket_name       = "production-bucket-01"
+cluster_name      = "prod-cluster"
+node_count        = 3
+machine_type      = "n2-standard-4"
+subnet_name       = "prod-subnet"
+subnet_ip_range   = "10.0.2.0/24"
+vpc_name          = "prod-vpc"
+service_account_email = "devops-prod@aesthetic-site-443805-a0.iam.gserviceaccount.com"
+credentials_file  = "C:/Users/Anemoia/Desktop/Devops_Metrial/GCP/prod-aesthetic-site-443805-a0-55ef78c84c9c.json"

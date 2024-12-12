@@ -1,0 +1,12 @@
+project_id        = "aesthetic-site-443805-a0"
+region            = "us-central1"
+location          = "us-central1-a"
+bucket_name       = "dev-bucket-01"
+cluster_name      = "dev-cluster"
+node_count        = 1
+machine_type      = "e2-medium"
+subnet_name       = "dev-subnet"
+subnet_ip_range   = "10.0.1.0/24"
+vpc_name          = "dev-vpc"
+service_account_email = "github-action@aesthetic-site-443805-a0.iam.gserviceaccount.com"
+credentials_file  = "./aesthetic-site-443805-a0-55ef78c84c9c.json"
